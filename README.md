@@ -2,4 +2,4 @@
 
 Eclipse text encoding - default (Cp1252)
 
-Trabalho de implementação feito em dupla com https://github.com/paducantuaria
+Trabalho de implementação feito em dupla com [paducantuaria](https://github.com/paducantuaria)
